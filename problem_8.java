@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class _8 {
+public class problem_8 {
 	static int isleft(String[] left, String[] right)
 	{
 	    int f = 0;

@@ -1,5 +1,5 @@
 
-public class _2e {
+public class problem_2e {
 	public static void main(String[] args){
 		String name="what do you know about me";  
 		System.out.println(name.contains("do you know"));  

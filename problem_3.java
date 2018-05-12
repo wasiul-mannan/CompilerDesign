@@ -5,7 +5,7 @@ import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
 
 
-public class _3 {
+public class problem_3 {
 	public static void main(String[] args){
 		
 		

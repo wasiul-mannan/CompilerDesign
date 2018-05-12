@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class _2a {
+public class problem_2a {
 	public static void main(String[] args){
 
 		String a,b;

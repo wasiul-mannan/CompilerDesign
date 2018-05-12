@@ -1,5 +1,5 @@
 
-public class _2d {
+public class problem_2d {
 	public static void main(String[] args){
 		String s="Wasiul Mannan";  
 		   System.out.println(s.substring(0,6));  

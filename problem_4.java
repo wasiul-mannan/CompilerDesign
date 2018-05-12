@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 
-public class _4 {
+public class problem_4 {
 	 public static void main(String[] args) throws FileNotFoundException, IOException {
 	        FileReader fr = new FileReader("F:/Compiler/src/antor.txt");
 	        BufferedReader br = new BufferedReader(fr);
